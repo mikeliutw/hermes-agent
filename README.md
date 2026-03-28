@@ -104,6 +104,14 @@ All documentation lives at **[hermes-agent.nousresearch.com/docs](https://hermes
 | [CLI Reference](https://hermes-agent.nousresearch.com/docs/reference/cli-commands) | All commands and flags |
 | [Environment Variables](https://hermes-agent.nousresearch.com/docs/reference/environment-variables) | Complete env var reference |
 
+### Repository Documentation
+
+For developers working directly with the codebase:
+
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** — Comprehensive architecture guide with method usage examples ([中文版](ARCHITECTURE.zh-CN.md))
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** — Detailed contribution guidelines and development setup
+- **[AGENTS.md](AGENTS.md)** — Development guide for AI coding assistants
+
 ---
 
 ## Migrating from OpenClaw
